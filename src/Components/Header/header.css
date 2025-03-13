@@ -1,0 +1,147 @@
+.header_item_top_container{
+    width: 60%;
+    margin: auto;
+    display: flex;
+}
+
+.header_info{
+    display: flex;
+    text-align: left;
+    flex-direction: row;
+}
+
+
+
+.header{
+    font-weight: 600;
+    font-size: 40px;
+    color: #161723;
+    width: 25%;
+    margin: auto;
+    letter-spacing: 0.25px;
+    padding: 5rem;
+    padding-bottom: 3rem;
+}
+
+
+.sheader_info{
+    justify-content: space-around;
+    display: flex;
+    flex-direction: column;
+
+}
+
+
+.header_item_info_text{
+    font-size: 16px;
+    margin:0.5rem;
+    font-weight: 400;
+    line-height: 150%;
+}
+
+.header_item_info{
+}
+
+.header-item-margins{
+}
+
+.header_main_img_styling{
+    margin-left: 5rem;
+}
+
+.img_container_general_styling{
+    margin-top: 0.5rem;
+    margin-right: 0.5rem;
+    height: 36px;
+    width: 36px;
+    padding: 0.6rem;
+    border-radius: 100%;
+}
+
+.img_1_container_styling{
+    background-color: #DCF9CA;
+
+}
+
+.img_2_container_styling{
+    background-color: #F8F0D6;
+    
+
+}
+
+.img_3_container_styling{
+    background-color: #C8F2E7 ;
+    margin-left: 2rem;
+ 
+}
+
+.img_4_container_styling{
+    background-color: #F7CABD;
+    margin-left: 2rem;
+
+}
+
+.header_item_info_header{
+    font-size: 19px;
+    margin:0.5rem;
+    font-weight: 600;
+    color: #161723;
+
+    line-height: 150%;
+}
+
+.btn-styling{
+    width: 462px;
+    height: 48px;
+    background-color: #EE6F4B;
+    border: 0;
+    border-radius: 6px;
+    padding: 12px, 40px, 12px, 10px;
+    color: white;
+    font-weight: 600;
+    letter-spacing: 0.5px;
+    line-height: 150%;
+    margin-top: 3rem;
+    margin-bottom: 2rem;
+    font-size: 16px;
+}
+
+.btn-styling:hover{
+    transform: scale(1.2)}
+
+.payments_inner_container{
+display: flex;
+font-size: 13px;
+font-weight: 400;
+}
+
+.payments_container p{
+    width: 186px;
+line-height: 150%;
+height: fit-content;
+margin: auto;
+}
+
+.payments_container{
+    text-align: center;
+    display: flex;
+    width: fit-content;
+    margin: auto;
+    width: 462px;
+    justify-content: space-between;
+    padding-bottom: 4rem;
+}
+
+.vector-styling{
+    height: 16px;
+    width: 14px;
+    height: fit-content;
+    margin: auto;
+}
+
+.payments_top_container{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+}
