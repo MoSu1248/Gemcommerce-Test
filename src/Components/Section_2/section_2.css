@@ -1,3 +1,6 @@
+/*Styling for the second section of the application using basic Css , using dispaly flex and margins in order to center and align everything properly*/
+
+
 .section_2_inner_container {
   display: flex;
   width: 62%;
@@ -29,6 +32,9 @@
   letter-spacing: 0.25px;
   text-align: left;
 }
+
+/*using  margins in order to center and align everything properly , giving space to text*/
+
 
 .section_2_inner_container_styling1 p {
   margin-left: 3rem;

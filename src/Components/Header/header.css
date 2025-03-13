@@ -10,7 +10,7 @@
     flex-direction: row;
 }
 
-
+/*code used in order to style the header section of the application with Css */
 
 .header{
     font-weight: 600;
@@ -48,6 +48,8 @@
 .header_main_img_styling{
     margin-left: 5rem;
 }
+
+/*Providing styling of the images conatainer */
 
 .img_container_general_styling{
     margin-top: 0.5rem;
@@ -89,6 +91,7 @@
 
     line-height: 150%;
 }
+/*Providing styling of the Button in the header section */
 
 .btn-styling{
     width: 462px;

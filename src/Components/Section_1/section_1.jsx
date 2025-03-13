@@ -3,6 +3,9 @@ import img from "../../Resources/Images/Body/Rectangle.png"
 import "./section_1.css"
 
 const section_1 = () => {
+//Code for the first body Section of the application ,providing format for the initial landing page as well as setting classnames for further styling. 
+
+
   return (
     <div className='section_1_container'>
          <div className='section_1_inner_container'>    

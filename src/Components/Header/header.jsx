@@ -8,9 +8,12 @@ import Img4 from "../../Resources/Images/Header/header_img_4.png"
 import Payments from "../../Resources/Images/Header/PaymentImgs/Payments.png"
 import Vector from "../../Resources/Images/Header/PaymentImgs/Vector.png"
     
+//Code for the header Section of the application ,providing format for the initial landing page as well as setting classnames for further styling. 
+
 const header = () => {
   return (
       <div>
+
           <h1 className='header'>What makes us different makes them stronger</h1>
           <div className='header_item_top_container'>
               <div className='sheader_info'>
